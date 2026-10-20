@@ -2,3 +2,6 @@
 My automated and disciplined path from Networking & Linux to Threat Intelligence and building `sentinel-intel`.
 
 - [Day 1: OSI Model & Wireshark](./day-01.md)
+- [Day 2: OSI Model and TCP UDP](./day-02.md)
+- [Day 3: IP Addressing Public And Private IP's](./day-03.md)
+- [Day 4: Subneeting basics and Binary conversion](./day-04.md)
