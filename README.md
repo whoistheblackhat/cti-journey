@@ -5,3 +5,9 @@ My automated and disciplined path from Networking & Linux to Threat Intelligence
 - [Day 2: OSI Model and TCP UDP](./day-02.md)
 - [Day 3: IP Addressing Public And Private IP's](./day-03.md)
 - [Day 4: Subneeting basics and Binary conversion](./day-04.md)
+- [Day 5: day 2 of subnetting and CIDR notation](./day-05.md)
+- [Day 6: DNS records and their types](./day-06.md)
+- [Day 8: Linux Cli and Overthewire practice](./day-08.md)
+
+
+
