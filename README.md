@@ -8,6 +8,4 @@ My automated and disciplined path from Networking & Linux to Threat Intelligence
 - [Day 5: day 2 of subnetting and CIDR notation](./day-05.md)
 - [Day 6: DNS records and their types](./day-06.md)
 - [Day 8: Linux Cli and Overthewire practice](./day-08.md)
-
-
-
+- [Day 9: overthewire level 8 to 13](./day-09.md)
