@@ -9,3 +9,5 @@ My automated and disciplined path from Networking & Linux to Threat Intelligence
 - [Day 6: DNS records and their types](./day-06.md)
 - [Day 8: Linux Cli and Overthewire practice](./day-08.md)
 - [Day 9: overthewire level 8 to 13](./day-09.md)
+- [Day 10: overthewire level 14 to 17](./day-10.md)
+- [Day 11: overthewire level 18 to 20](./day-11.md)
