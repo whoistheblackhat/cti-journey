@@ -13,3 +13,4 @@ My automated and disciplined path from Networking & Linux to Threat Intelligence
 - [Day 11: overthewire level 18 to 20](./day-11.md)
 - [Day 12: nmap recon and analysis](./day-12.md)
 - [Day 13: Curl whois and ss netstat](./day-13.md)
+- [Day 14: Summury of the weak ](./day-14.md)
