@@ -15,3 +15,4 @@ My automated and disciplined path from Networking & Linux to Threat Intelligence
 - [Day 12: nmap recon and analysis](./day-12.md)
 - [Day 13: Curl whois and ss netstat](./day-13.md)
 - [Day 14: Summary of the week ](./day-14.md)
+- [day 15: Exploring ELK/Fleet agents](./day-15.md)
