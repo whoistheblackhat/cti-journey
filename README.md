@@ -17,4 +17,5 @@ My automated and disciplined path from Networking & Linux to Threat Intelligence
 - [Day 14: Summary of the week ](./day-14.md)
 - [day 15: Exploring ELK/Fleet agents](./day-15.md)
 - [Day 16: Sysmon config and event id](./day-16.md)
-- [day 17: Solving lab of cyberdefender](./day-17.md)
+- [Day 17: Solving lab of cyberdefender](./day-17.md)
+- [Day 18: analyzing logs in linux and windows](./day-18.md)
