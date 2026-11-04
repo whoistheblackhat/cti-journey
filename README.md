@@ -19,3 +19,4 @@ My automated and disciplined path from Networking & Linux to Threat Intelligence
 - [Day 16: Sysmon config and event id](./day-16.md)
 - [Day 17: Solving lab of cyberdefender](./day-17.md)
 - [Day 18: analyzing logs in linux and windows](./day-18.md)
+- [Day 19: analyzing phishing email](./day-19.md)
