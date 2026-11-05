@@ -20,3 +20,4 @@ My automated and disciplined path from Networking & Linux to Threat Intelligence
 - [Day 17: Solving lab of cyberdefender](./day-17.md)
 - [Day 18: analyzing logs in linux and windows](./day-18.md)
 - [Day 19: analyzing phishing email](./day-19.md)
+- [Day 20: SEIM detection aand rules](./day-20.md)
