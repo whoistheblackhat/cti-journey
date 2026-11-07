@@ -22,3 +22,4 @@ My automated and disciplined path from Networking & Linux to Threat Intelligence
 - [Day 19: analyzing phishing email](./day-19.md)
 - [Day 20: SEIM detection aand rules](./day-20.md)
 - [Day 21: Summary of the weak 3](./day-21.md)
+- [Day 22: python basics loops function](./day-22.md)
