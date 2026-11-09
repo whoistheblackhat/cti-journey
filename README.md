@@ -24,3 +24,4 @@ My automated and disciplined path from Networking & Linux to Threat Intelligence
 - [Day 21: Summary of the weak 3](./day-21.md)
 - [Day 22: python basics loops function](./day-22.md)
 - [Day 23: python basics requests and csv module](./day-23.md)
+- [Day 24: python json parsing and data handling](./day-24.md)
