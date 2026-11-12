@@ -26,3 +26,4 @@ My automated and disciplined path from Networking & Linux to Threat Intelligence
 - [Day 23: python basics requests and csv module](./day-23.md)
 - [Day 24: python json parsing and data handling](./day-24.md)
 - [Day 25: Urlhaus endpoints learning and curl](./day-25.md)
+- [Day 26/27: urlhaus fetching malicious urls and saving them in csv file](./day-26-27.md)
